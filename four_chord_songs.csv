@@ -4,7 +4,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,5,6,4",adele,someone like you,chorus,4kflIGfjdZJW4ot2ioixTB,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109,285040,4
 "1,5,6,4",avril lavigne,girlfriend,chorus,5HbCnVLXRyZVxnreOPgJCK,0.56,0.959,7,-2.433,1,0.102,0.000738,0.000206,0.209,0.67,163.983,216600,4
 "1,5,6,4",bon jovi,living on a prayer,chorus,,,,,,,,,,,,,,
-"1,5,6,4",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"1,5,6,4",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "1,5,6,4",carly rae jepsen,call me maybe,chorus,3TGRqZ0a2l1LRblBkJoaDx,0.778,0.585,7,-6.502,1,0.0435,0.0123,0.0,0.108,0.626,120.069,193400,4
 "1,5,6,4",carrie underwood,so small,chorus,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
 "1,5,6,4",carrie underwood,so small,verse,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
@@ -922,12 +922,12 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,5,4,1",third eye blind,never let you go,verse and pre-chorus,1sxUaLi0G2vB7dl4ogtCxH,0.728,0.94,4,-5.034,1,0.0368,0.0814,0.000162,0.109,0.967,113.76,237240,4
 "1,5,4,1",blink-182,built this pool,chorus,1oBECT3z0l4yfVnUjzen8M,0.536,0.914,4,-2.683,1,0.131,0.0173,0.000374,0.235,0.0,159.501,16667,4
 "1,5,4,5",blink 182,all the small things,verse and pre-chorus,7yCPwWs66K8Ba5lFuU2bcx,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599,168000,4
-"1,5,4,5",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"1,5,4,5",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "1,5,4,5",bryan adams,everything i do,verse,6eBK3edMW7bEzecF1eCezc,0.519,0.372,1,-12.635,1,0.0284,0.0816,4.67e-05,0.0652,0.298,131.227,394133,4
 "1,5,4,5",celine dion,my heart will go on,verse,3oEHQmhvFLiE7ZYES0ulzv,0.428,0.276,4,-11.729,1,0.0312,0.732,5.33e-06,0.117,0.0382,99.195,280000,1
 "1,5,4,5",johnathan coulton and ellen mclain,still alive,chorus,,,,,,,,,,,,,,
 "1,5,4,5",katy perry,waking up in vegas,chorus,6fvxos1qSHrIgOkKw4dhWS,0.524,0.878,5,-3.108,0,0.0346,0.0012,0.0,0.098,0.59,130.989,199187,4
-"1,5,4,5",led zeppelin,stairway to heaven,intro,5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,482830,4
+"1,3,7,4",led zeppelin,stairway to heaven,intro,5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,482830,4
 "1,5,4,5",led zeppelin,tangerine,chorus,4ywWJqYKOwaVVh9xXARWUS,0.306,0.398,6,-12.767,1,0.0412,0.0857,6.02e-05,0.0756,0.0948,85.622,191828,4
 "1,5,4,5",led zeppelin,tangerine,verse,4ywWJqYKOwaVVh9xXARWUS,0.306,0.398,6,-12.767,1,0.0412,0.0857,6.02e-05,0.0756,0.0948,85.622,191828,4
 "1,5,4,5",neutral milk hotel,king of carrot flowers,verse,17Nowmq4iF2rkbd1rAe1Vt,0.419,0.519,5,-6.47,1,0.0334,0.11,0.889,0.409,0.343,94.044,120427,4
@@ -1265,7 +1265,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,5,1,4",miller 64,living the dream,verse,,,,,,,,,,,,,,
 "1,5,1,4",the beatles,lovely rita,verse,6h9W5FxX4E9lUFsyq8j1AD,0.61,0.471,8,-9.151,0,0.0261,0.0634,0.0,0.118,0.63,87.379,162093,4
 "1,5,1,4",the pogues,streams of whiskey,intro and verse,5qZppxdSuwLsk7wQIUbCVw,0.601,0.896,2,-8.769,1,0.0326,0.00575,1.31e-06,0.314,0.969,137.809,152960,4
-"1,5,1,4",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
+"1,5,1,4",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,4,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
 "1,5,1,4",usher,dj's got us falling in love again,verse,,,,,,,,,,,,,,
 "1,5,1,4",creedence clearwater revival,down on the corner,chorus,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
 "1,5,1,4",creedence clearwater revival,down on the corner,verse,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
@@ -1626,7 +1626,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,4,1,4",phantom planet,california,intro,497Fkp3gRiGrRMoqBTDudr,0.4,0.805,4,-7.305,1,0.0407,0.0387,5.4e-05,0.109,0.324,158.459,193933,4
 "1,4,1,4",pink floyd,in the flesh,verse,24YmWQgunJGAU8El3ndkyn,0.294,0.489,9,-14.578,1,0.0399,0.416,0.348,0.0537,0.268,152.115,198222,3
 "1,4,1,4",radiohead,karma police,outro,3SVAN3BRByDmHOhKyIDxfC,0.36,0.505,7,-9.129,1,0.026,0.0626,9.22e-05,0.172,0.317,74.807,264067,4
-"1,4,1,4",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
+"1,4,1,4",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,4,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
 "1,4,1,4",they might be giants,birdhouse in your soul,verse,6pmuu4qSz2WrtGkBjUfyuz,0.61,0.819,8,-8.323,1,0.0666,0.00381,7.92e-06,0.285,0.454,100.057,198920,4
 "1,4,1,4",usher,dj's got us falling in love again,verse,,,,,,,,,,,,,,
 "1,4,1,4",swedish house mafia,don't you worry child,chorus,,,,,,,,,,,,,,
@@ -1845,7 +1845,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,4,1,5",neutral milk hotel,king of carrot flowers,verse,17Nowmq4iF2rkbd1rAe1Vt,0.419,0.519,5,-6.47,1,0.0334,0.11,0.889,0.409,0.343,94.044,120427,4
 "1,4,1,5",radiohead,black star,chorus,6JzzI3YxHCcjZ7MCQS2YS1,0.288,0.555,7,-7.431,1,0.0401,0.00312,0.0513,0.27,0.307,158.699,247040,4
 "1,4,1,5",the beatles,hey jude,verse,0aym2LBJBk9DAYuHHutrIl,0.386,0.607,10,-7.7,1,0.0261,0.0112,1.38e-05,0.088,0.532,147.207,425653,4
-"1,4,1,5",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
+"1,4,1,5",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,4,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
 "1,4,1,5",afroman,because i got high,verse,0rRboI6IRuGx56Dq3UdYY4,0.8,0.339,7,-8.531,1,0.483,0.166,0.0,0.0791,0.844,165.982,197760,4
 "1,4,1,5",creedence clearwater revival,down on the corner,chorus,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
 "1,4,1,5",creedence clearwater revival,down on the corner,verse,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
@@ -2222,7 +2222,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,4,5,1",blues traveler,hook,solo,0ZhSQIDIv0CWVc0Vt1aiBm,0.53,0.831,9,-4.311,1,0.0419,0.0477,1.83e-06,0.117,0.774,166.919,288507,4
 "1,4,5,1",shinobu kajihisa,hiiragi town school days - muv-luv extra ost,pre-chorus,,,,,,,,,,,,,,
 "1,4,5,1",bo donaldson and the heywoods,billy don't be a hero,chorus,2yGQNGWpU6dUgswcPZtEaw,0.71,0.691,11,-10.169,1,0.0408,0.0403,0.0,0.162,0.963,122.156,205867,4
-"1,4,5,1",ludwig van beethoven,fuer elise,bridge,7cfTba1xLFkHPpVJANHM9I,0.298,0.134,9,-17.739,0,0.0322,0.994,0.926,0.0876,0.451,174.678,172828,4
+"1,4,5,1",ludwig van beethoven,fuer elise,bridge,7cfTba1xLFkHPpVJANHM9I,0.298,0.134,0,-17.739,1,0.0322,0.994,0.926,0.0876,0.451,174.678,172828,4
 "1,4,5,1",reel big fish,i want your girlfriend to be my girlfriend too,intro,6OLhtCi3RCxcLcc4bskinF,0.506,0.874,7,-6.0,1,0.0826,0.00225,0.000138,0.683,0.785,97.161,173000,4
 "1,4,5,1",wolfgang amadeus mozart,rondo alla turca,chorus,4k038uwzZINTcDz1ApzHJ8,0.555,0.206,2,-19.826,1,0.0453,0.993,0.924,0.113,0.701,132.863,206500,4
 "1,4,5,1",wolfgang amadeus mozart,rondo alla turca,solo,4k038uwzZINTcDz1ApzHJ8,0.555,0.206,2,-19.826,1,0.0453,0.993,0.924,0.113,0.701,132.863,206500,4
@@ -2293,7 +2293,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,4,5,1",the beatles,please please me,bridge,6EHuOufBeL6vk3TvVJB5qo,0.527,0.48,4,-9.61,1,0.028,0.334,0.0,0.0702,0.706,139.388,120853,4
 "1,4,5,1",elton john,don't let the sun go down on me,chorus,,,,,,,,,,,,,,
 "1,4,5,1",perfume,sweet donuts,chorus,,,,,,,,,,,,,,
-"1,4,5,1",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
+"1,7,3,6",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
 "1,4,5,1",julia holter,feel you,verse,6JGZmmiaL64s1AmhEOVvCr,0.445,0.711,9,-5.483,0,0.0304,0.0111,5.89e-05,0.0932,0.381,142.034,248653,4
 "1,4,5,1",blink-182,teenage satellites,chorus,1XJu0CRUnIoive1OU111Wp,0.475,0.96,2,-2.438,1,0.12,0.00283,0.0,0.191,0.474,160.093,191573,4
 "1,4,5,1",blink-182,going away to college,verse,0bDmuUdF74kuh8JKlUNiz4,0.535,0.821,11,-6.414,1,0.0348,0.00863,0.0,0.55,0.585,104.528,179160,4
@@ -3825,7 +3825,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,2,16,4",emax,delicate oooz,intro and verse,,,,,,,,,,,,,,
 "4,1,5,6",adele,someone like you,chorus,4kflIGfjdZJW4ot2ioixTB,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109,285040,4
 "4,1,5,6",avril lavigne,girlfriend,chorus,5HbCnVLXRyZVxnreOPgJCK,0.56,0.959,7,-2.433,1,0.102,0.000738,0.000206,0.209,0.67,163.983,216600,4
-"4,1,5,6",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"4,1,5,6",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "4,1,5,6",carly rae jepsen,call me maybe,chorus,3TGRqZ0a2l1LRblBkJoaDx,0.778,0.585,7,-6.502,1,0.0435,0.0123,0.0,0.108,0.626,120.069,193400,4
 "4,1,5,6",carrie underwood,so small,chorus,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
 "4,1,5,6",carrie underwood,so small,verse,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
@@ -4309,7 +4309,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,1,5,6",the chainsmokers,don't let me down ft daya,intro,,,,,,,,,,,,,,
 "4,1,5,6",blink-182,going away to college,chorus,0bDmuUdF74kuh8JKlUNiz4,0.535,0.821,11,-6.414,1,0.0348,0.00863,0.0,0.55,0.585,104.528,179160,4
 "4,1,5,4",blink 182,all the small things,verse and pre-chorus,7yCPwWs66K8Ba5lFuU2bcx,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599,168000,4
-"4,1,5,4",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"4,1,5,4",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "4,1,5,4",bruno mars,the lazy song,chorus,1ExfPZEiahqhLyajhybFeS,0.738,0.804,11,-3.851,1,0.0621,0.332,0.0,0.279,0.949,174.943,190213,4
 "4,1,5,4",creedence clearwater revival,bad moon rising,chorus,20OFwXhEXf12DzwXmaV7fj,0.508,0.774,2,-5.973,1,0.0321,0.0586,4.87e-06,0.063,0.942,178.946,141600,4
 "4,1,5,4",creedence clearwater revival,bad moon rising,verse,20OFwXhEXf12DzwXmaV7fj,0.508,0.774,2,-5.973,1,0.0321,0.0586,4.87e-06,0.063,0.942,178.946,141600,4
@@ -4318,7 +4318,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,1,5,4",fun,some nights,chorus,6t6oULCRS6hnI7rm0h5gwl,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,277040,4
 "4,1,5,4",gym class heroes,ass back home,chorus,3bfqkspKABT4pPicm6wC9F,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,222213,4
 "4,1,5,4",lady gaga,born this way,verse,6r2BECwMgEoRb5yLfp0Hca,0.587,0.828,11,-5.108,1,0.161,0.00327,0.0,0.331,0.494,123.907,260253,4
-"4,1,5,4",led zeppelin,stairway to heaven,intro,5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,482830,4
+"3,7,4,3",led zeppelin,stairway to heaven,intro,5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,482830,4
 "4,1,5,4",leona lewis,i see you - avatar,verse,,,,,,,,,,,,,,
 "4,1,5,4",miller 64,living the dream,verse,,,,,,,,,,,,,,
 "4,1,5,4",missy higgins,night minds,chorus,,,,,,,,,,,,,,
@@ -4606,7 +4606,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,1,5,1",miller 64,living the dream,chorus,,,,,,,,,,,,,,
 "4,1,5,1",miller 64,living the dream,verse,,,,,,,,,,,,,,
 "4,1,5,1",the beatles,hey jude,verse,0aym2LBJBk9DAYuHHutrIl,0.386,0.607,10,-7.7,1,0.0261,0.0112,1.38e-05,0.088,0.532,147.207,425653,4
-"4,1,5,1",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
+"4,1,5,1",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,4,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
 "4,1,5,1",afroman,because i got high,verse,0rRboI6IRuGx56Dq3UdYY4,0.8,0.339,7,-8.531,1,0.483,0.166,0.0,0.0791,0.844,165.982,197760,4
 "4,1,5,1",creedence clearwater revival,down on the corner,chorus,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
 "4,1,5,1",creedence clearwater revival,down on the corner,verse,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.583,0.00109,0.0707,0.874,108.217,166280,4
@@ -4908,7 +4908,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,1,4,1",radiohead,black star,chorus,6JzzI3YxHCcjZ7MCQS2YS1,0.288,0.555,7,-7.431,1,0.0401,0.00312,0.0513,0.27,0.307,158.699,247040,4
 "4,1,4,1",radiohead,karma police,outro,3SVAN3BRByDmHOhKyIDxfC,0.36,0.505,7,-9.129,1,0.026,0.0626,9.22e-05,0.172,0.317,74.807,264067,4
 "4,1,4,1",the legend of zelda,lost woods,instrumental,5UJVOSNv6imXOmoMPhTMf3,0.608,0.13,7,-26.967,0,0.0728,0.994,0.921,0.087,0.71,160.01,166500,5
-"4,1,4,1",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
+"4,1,4,1",the rolling stones,satisfaction,chorus,2PzU4IB8Dr6mxV3lHuaG34,0.725,0.853,4,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,222813,4
 "4,1,4,1",they might be giants,birdhouse in your soul,verse,6pmuu4qSz2WrtGkBjUfyuz,0.61,0.819,8,-8.323,1,0.0666,0.00381,7.92e-06,0.285,0.454,100.057,198920,4
 "4,1,4,1",tim mcmorris,overwhelmed,pre-chorus,2iRg3z1lrFSQxXU4G7Unn3,0.633,0.373,11,-8.82,1,0.0294,0.365,0.0,0.102,0.183,109.985,237091,4
 "4,1,4,1",usher,dj's got us falling in love again,verse,,,,,,,,,,,,,,
@@ -6447,7 +6447,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,5,1,4",the beatles,please please me,verse,6EHuOufBeL6vk3TvVJB5qo,0.527,0.48,4,-9.61,1,0.028,0.334,0.0,0.0702,0.706,139.388,120853,4
 "4,5,1,4",the beatles,please please me,bridge,6EHuOufBeL6vk3TvVJB5qo,0.527,0.48,4,-9.61,1,0.028,0.334,0.0,0.0702,0.706,139.388,120853,4
 "4,5,1,4",perfume,sweet donuts,chorus,,,,,,,,,,,,,,
-"4,5,1,4",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
+"7,3,6,7",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
 "4,5,1,4",julia holter,feel you,verse,6JGZmmiaL64s1AmhEOVvCr,0.445,0.711,9,-5.483,0,0.0304,0.0111,5.89e-05,0.0932,0.381,142.034,248653,4
 "4,5,1,4",blink-182,teenage satellites,chorus,1XJu0CRUnIoive1OU111Wp,0.475,0.96,2,-2.438,1,0.12,0.00283,0.0,0.191,0.474,160.093,191573,4
 "4,5,1,4",blink-182,going away to college,verse,0bDmuUdF74kuh8JKlUNiz4,0.535,0.821,11,-6.414,1,0.0348,0.00863,0.0,0.55,0.585,104.528,179160,4
@@ -7823,7 +7823,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,6,4,5",van halen,right now,intro,6N1sNzq3CArC1pMSaZTxaT,0.529,0.662,5,-11.745,1,0.0273,0.153,0.00542,0.099,0.302,93.93,320867,4
 "6,4,1,5",adele,someone like you,chorus,4kflIGfjdZJW4ot2ioixTB,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109,285040,4
 "6,4,1,5",avril lavigne,girlfriend,chorus,5HbCnVLXRyZVxnreOPgJCK,0.56,0.959,7,-2.433,1,0.102,0.000738,0.000206,0.209,0.67,163.983,216600,4
-"6,4,1,5",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"6,4,1,5",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "6,4,1,5",carly rae jepsen,call me maybe,chorus,3TGRqZ0a2l1LRblBkJoaDx,0.778,0.585,7,-6.502,1,0.0435,0.0123,0.0,0.108,0.626,120.069,193400,4
 "6,4,1,5",carrie underwood,so small,chorus,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
 "6,4,1,5",carrie underwood,so small,verse,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
@@ -11929,6 +11929,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "6,3,6,3",rem,losing my religion,verse,,,,,,,,,,,,,,
 "6,3,6,3",sistar,alone,chorus,40gUfKHwCNLpXowFN9Hvsu,0.762,0.961,4,-2.33,0,0.0368,0.293,0.0,0.136,0.885,114.979,206315,4
 "6,3,6,3",disclosure,white noise feat alunageorge,intro,,,,,,,,,,,,,,
+"3,4,1,6",queen,bohemian rhapsody,outro 1,7tFiyTwD0nx5a1eklYtX2J,0.397,0.396,3,-9.91,1,0.05,0.254,0.0,0.268,0.227,142.913,354320,4
 "6,3,6,3",queen,bohemian rhapsody,outro 1,7tFiyTwD0nx5a1eklYtX2J,0.397,0.396,3,-9.91,1,0.05,0.254,0.0,0.268,0.227,142.913,354320,4
 "6,3,6,3",evanescence ,my immortal,pre-chorus,4UzVcXufOhGUwF56HT7b8M,0.186,0.29,9,-9.008,1,0.0333,0.862,0.0,0.13,0.0776,68.992,262533,4
 "6,3,6,3",italobrothers,this is nightlife,chorus,56Za7YLazuE3ILTBKzjtQT,0.642,0.784,11,-5.286,0,0.032,0.0271,3.03e-05,0.308,0.877,128.004,162000,4
@@ -12087,7 +12088,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "6,3,2,5/6",wan wan,the princess that was erased from history,verse,,,,,,,,,,,,,,
 "5,6,4,1",adele,someone like you,chorus,4kflIGfjdZJW4ot2ioixTB,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109,285040,4
 "5,6,4,1",avril lavigne,girlfriend,chorus,5HbCnVLXRyZVxnreOPgJCK,0.56,0.959,7,-2.433,1,0.102,0.000738,0.000206,0.209,0.67,163.983,216600,4
-"5,6,4,1",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"5,6,4,1",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "5,6,4,1",carly rae jepsen,call me maybe,chorus,3TGRqZ0a2l1LRblBkJoaDx,0.778,0.585,7,-6.502,1,0.0435,0.0123,0.0,0.108,0.626,120.069,193400,4
 "5,6,4,1",carrie underwood,so small,chorus,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
 "5,6,4,1",carrie underwood,so small,verse,6xfL1KzGxg48ACVlQE9qXr,0.426,0.784,3,-3.225,1,0.0421,0.306,0.0,0.0695,0.272,147.939,225213,3
@@ -13756,7 +13757,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "5,1,4,5",vampire weekend,cape cod kwassa kwassa,intro,7q4MJZSiqPC16dbhQWxugv,0.852,0.518,2,-7.155,1,0.0413,0.832,0.0893,0.14,0.794,105.058,214707,4
 "5,1,4,5",the beatles,please please me,bridge,6EHuOufBeL6vk3TvVJB5qo,0.527,0.48,4,-9.61,1,0.028,0.334,0.0,0.0702,0.706,139.388,120853,4
 "5,1,4,5",perfume,sweet donuts,chorus,,,,,,,,,,,,,,
-"5,1,4,5",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
+"3,6,7,3",red hot chili peppers,goodbye angels,intro,2XTkpF9T2PKvcLgamGJGx1,0.365,0.804,9,-5.922,0,0.105,0.104,6.58e-05,0.15,0.577,171.597,268733,4
 "5,1,4,5",julia holter,feel you,verse,6JGZmmiaL64s1AmhEOVvCr,0.445,0.711,9,-5.483,0,0.0304,0.0111,5.89e-05,0.0932,0.381,142.034,248653,4
 "5,1,4,5",blink-182,teenage satellites,chorus,1XJu0CRUnIoive1OU111Wp,0.475,0.96,2,-2.438,1,0.12,0.00283,0.0,0.191,0.474,160.093,191573,4
 "5,1,4,5",blink-182,going away to college,verse,0bDmuUdF74kuh8JKlUNiz4,0.535,0.821,11,-6.414,1,0.0348,0.00863,0.0,0.55,0.585,104.528,179160,4
@@ -15448,7 +15449,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "5,4,5,1",blink 182,all the small things,verse and pre-chorus,7yCPwWs66K8Ba5lFuU2bcx,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599,168000,4
 "5,4,5,1",braid soundtrack,downstream,chorus,,,,,,,,,,,,,,
 "5,4,5,1",braid soundtrack,downstream,solo,,,,,,,,,,,,,,
-"5,4,5,1",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
+"5,4,5,1",bruno mars,grenade,chorus,2tJulUYLDKOg9XrtVkMgcJ,0.706,0.558,5,-7.237,1,0.0593,0.146,0.0,0.118,0.227,110.443,223253,4
 "5,4,5,1",bryan adams,everything i do,verse,6eBK3edMW7bEzecF1eCezc,0.519,0.372,1,-12.635,1,0.0284,0.0816,4.67e-05,0.0652,0.298,131.227,394133,4
 "5,4,5,1",dire straits,skateaway,chorus,7dRrGFypClyo0iNxSyxpnD,0.523,0.707,7,-12.19,1,0.0318,0.119,0.00409,0.0794,0.609,116.196,378960,4
 "5,4,5,1",guns n' roses,november rain,pre-outro,3YRCqOhFifThpSRFJ1VWFM,0.294,0.641,11,-9.316,1,0.0291,0.0163,0.22,0.112,0.226,79.759,536067,4
