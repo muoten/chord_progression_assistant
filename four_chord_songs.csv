@@ -2798,7 +2798,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,6,4,5",anamanaguchi,akira,pre-chorus,3zFc5Y7EczGHrfpWlOmzvT,0.47,0.949,7,-3.112,1,0.101,0.00116,0.704,0.0545,0.181,126.174,211039,4
 "1,6,4,5",charli xcx,boom clap,chorus,0Y1MWB026LYxGvhq4EcMiC,0.659,0.911,4,-2.28,1,0.0786,0.154,0.000304,0.191,0.576,91.999,169866,4
 "1,6,4,5",pomplamoose,bust your knee caps,chorus,1uRKeDUiD4fDUEAjXbmYr6,0.408,0.563,9,-5.97,0,0.0375,0.0473,0.0,0.0781,0.558,118.565,185316,3
-"1,6,4,5",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,0,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
+"1,6,4,5",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,1,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
 "1,6,4,5",jacksfilms,give this song a title,chorus,,,,,,,,,,,,,,
 "1,6,4,5",they might be giants,experimental film,pre-chorus,4Q9fKe4b63AzmCRf5YtZdc,0.581,0.663,7,-5.128,1,0.0313,0.00568,0.0,0.0688,0.757,132.861,176880,4
 "1,6,4,5",game freak,aspertia city,intro,,,,,,,,,,,,,,
@@ -2984,7 +2984,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "1,6,5,4",matt nathanson,come on get higher,chorus,38YgZVHPWOWsKrsCXz6JyP,0.672,0.623,9,-5.699,1,0.0297,0.241,0.0,0.0848,0.617,92.018,215173,4
 "1,6,5,4",the wanted,glad you came,intro,3AGOgQzp0YcPH41u9p7dOp,0.755,0.838,7,-4.5,0,0.0687,0.0643,1.59e-05,0.118,0.473,126.877,198187,4
 "1,6,5,4",muse,madness,verse,0c4IEciLCDdXEhhKxj4ThA,0.502,0.417,10,-7.665,1,0.0718,0.127,0.00419,0.106,0.218,180.301,281040,4
-"1,6,5,4",the white stripes,seven nation army,intro,7i6r9KotUPQg3ozKKgEPIN,0.737,0.463,0,-7.828,1,0.0792,0.00817,0.447,0.255,0.324,123.881,231733,4
+"1,6,5,4",the white stripes,seven nation army,intro,7i6r9KotUPQg3ozKKgEPIN,0.737,0.463,4,-7.828,0,0.0792,0.00817,0.447,0.255,0.324,123.881,231733,4
 "1,6,5,4",nero,promises - skrillex-nero remix,chorus,7569Hbv0FUS7vjkdGvdgeZ,0.526,0.82,9,-3.398,0,0.0418,0.00293,0.000102,0.0465,0.16,139.959,268707,4
 "1,6,5,4",green day,2000 light years away,verse,6pM25DLzJb5oWj74d3ElXI,0.206,0.99,10,-3.565,1,0.13,0.00176,8.07e-05,0.335,0.666,187.433,144627,4
 "1,6,5,4",sigur ros,hoppipolla,intro,0yQPpUq5BJyqah5m2Q5Stt,0.316,0.684,11,-6.447,1,0.0327,0.0302,0.215,0.219,0.175,139.863,268707,4
@@ -6672,7 +6672,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "4,5,1,6",anamanaguchi,akira,pre-chorus,3zFc5Y7EczGHrfpWlOmzvT,0.47,0.949,7,-3.112,1,0.101,0.00116,0.704,0.0545,0.181,126.174,211039,4
 "4,5,1,6",charli xcx,boom clap,chorus,0Y1MWB026LYxGvhq4EcMiC,0.659,0.911,4,-2.28,1,0.0786,0.154,0.000304,0.191,0.576,91.999,169866,4
 "4,5,1,6",pomplamoose,bust your knee caps,chorus,1uRKeDUiD4fDUEAjXbmYr6,0.408,0.563,9,-5.97,0,0.0375,0.0473,0.0,0.0781,0.558,118.565,185316,3
-"4,5,1,6",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,0,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
+"4,5,1,6",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,1,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
 "4,5,1,6",jacksfilms,give this song a title,chorus,,,,,,,,,,,,,,
 "4,5,1,6",they might be giants,experimental film,pre-chorus,4Q9fKe4b63AzmCRf5YtZdc,0.581,0.663,7,-5.128,1,0.0313,0.00568,0.0,0.0688,0.757,132.861,176880,4
 "4,5,1,6",brand new,the quiet things that no one ever knows,intro,3IlY76VbP31zwPY0S2EMjh,0.307,0.806,6,-5.84,1,0.0601,0.0135,2.21e-06,0.097,0.226,81.434,241640,4
@@ -8853,7 +8853,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "6,4,5,1",mike oldfield,moonlight shadow feat maggie reilly,verse and pre-chorus,,,,,,,,,,,,,,
 "6,4,5,1",pomplamoose,bust your knee caps,chorus,1uRKeDUiD4fDUEAjXbmYr6,0.408,0.563,9,-5.97,0,0.0375,0.0473,0.0,0.0781,0.558,118.565,185316,3
 "6,4,5,1",naruto,sadness and sorrow,instrumental,,,,,,,,,,,,,,
-"6,4,5,1",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,0,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
+"6,4,5,1",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,1,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
 "6,4,5,1",jacksfilms,give this song a title,chorus,,,,,,,,,,,,,,
 "6,4,5,1",jj lin,always online,chorus,7onu9q98XjqZi8egiI1uDf,0.798,0.55,0,-6.137,1,0.0453,0.443,0.0,0.171,0.695,119.998,225013,4
 "6,4,5,1",jj lin,always online,chorus,7onu9q98XjqZi8egiI1uDf,0.798,0.55,0,-6.137,1,0.0453,0.443,0.0,0.171,0.695,119.998,225013,4
@@ -11177,7 +11177,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "6,1,6,1",mariah carey,heartbreaker,intro,0jsANwwkkHyyeNyuTFq2XO,0.524,0.816,1,-5.872,1,0.37,0.384,0.0,0.349,0.789,200.031,285707,4
 "6,1,6,1",mariah carey,heartbreaker,verse,0jsANwwkkHyyeNyuTFq2XO,0.524,0.816,1,-5.872,1,0.37,0.384,0.0,0.349,0.789,200.031,285707,4
 "6,1,6,1",mariah carey,heartbreaker,pre-chorus,0jsANwwkkHyyeNyuTFq2XO,0.524,0.816,1,-5.872,1,0.37,0.384,0.0,0.349,0.789,200.031,285707,4
-"6,1,6,5",the white stripes,seven nation army,intro,7i6r9KotUPQg3ozKKgEPIN,0.737,0.463,0,-7.828,1,0.0792,0.00817,0.447,0.255,0.324,123.881,231733,4
+"6,1,6,5",the white stripes,seven nation army,intro,7i6r9KotUPQg3ozKKgEPIN,0.737,0.463,4,-7.828,0,0.0792,0.00817,0.447,0.255,0.324,123.881,231733,4
 "6,1,6,5",green day,2000 light years away,verse,6pM25DLzJb5oWj74d3ElXI,0.206,0.99,10,-3.565,1,0.13,0.00176,8.07e-05,0.335,0.666,187.433,144627,4
 "6,1,6,5",jjamz,heartbeat,verse,43SGRLrSS4m4b8YfSrwvNZ,0.667,0.833,2,-6.214,1,0.0519,0.00165,0.00965,0.213,0.552,108.996,229267,4
 "6,1,6,5",green day,good riddance - time of your life,chorus,6ORqU0bHbVCRjXm9AjyHyZ,0.475,0.432,7,-7.844,1,0.0302,0.183,0.0,0.161,0.648,94.605,153467,4
@@ -12505,7 +12505,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "5,6,4,1",muse,dead inside,bridge,2daZovie6pc2ZK7StayD1K,0.65,0.758,8,-5.021,1,0.0507,0.000259,0.000492,0.276,0.603,100.005,262947,4
 "5,6,4,1",different heaven,my heart,pre-chorus,08z6EsebfUH0Q6J0Wf3eWf,0.516,0.786,10,-5.264,1,0.0412,0.000279,0.00369,0.305,0.164,174.035,266900,4
 "5,6,4,1",greek fire,top of the world,verse and pre-chorus,1PvEOveuZFuu0LCKdKQRdN,0.488,0.89,8,-4.408,1,0.0504,0.00198,0.000338,0.325,0.278,135.085,266169,4
-"5,6,4,1",x ambassadors,unsteady,intro,7lGKEWMXVWWTt3X71Bv44I,0.389,0.665,0,-6.169,1,0.0644,0.178,0.000732,0.116,0.199,117.055,193547,4
+"5,6,4,1",x ambassadors,unsteady,intro,7lGKEWMXVWWTt3X71Bv44I,0.389,0.665,2,-6.169,1,0.0644,0.178,0.000732,0.116,0.199,117.055,193547,4
 "5,6,4,1",neru,law-evading rock,chorus,,,,,,,,,,,,,,
 "5,6,4,1",perfume,sweet donuts,intro,,,,,,,,,,,,,,
 "5,6,4,1",the chainsmokers,don't let me down ft daya,intro,,,,,,,,,,,,,,
@@ -14540,7 +14540,7 @@ cp,artist,song,section,spotify_ID,danceability,energy,key,loudness,mode,speechin
 "5,1,6,5",tom petty and the heartbreakers,i won't back down,pre-chorus and chorus,2oBoGj6WvCA3dUcpJ4L9Pb,0.763,0.763,7,-4.75,1,0.0285,0.0714,4.34e-06,0.232,0.941,113.908,176507,4
 "5,1,6,5",tom petty and the heartbreakers,i won't back down,verse,2oBoGj6WvCA3dUcpJ4L9Pb,0.763,0.763,7,-4.75,1,0.0285,0.0714,4.34e-06,0.232,0.941,113.908,176507,4
 "5,1,6,5",tom petty and the heartbreakers,i won't back down,verse,2oBoGj6WvCA3dUcpJ4L9Pb,0.763,0.763,7,-4.75,1,0.0285,0.0714,4.34e-06,0.232,0.941,113.908,176507,4
-"5,1,6,5",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,0,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
+"5,1,6,5",righteous brothers,unchained melody,verse,1jFhnVoJkcB4lf9tT0rSZS,0.367,0.215,1,-16.652,1,0.0288,0.517,0.0,0.618,0.266,98.742,215840,3
 "5,1,6,5",lorde,tennis court,chorus,74fpNVAJrKGQuqHETi4WSt,0.764,0.547,0,-8.6,1,0.0576,0.0175,0.000161,0.23,0.402,89.993,198907,4
 "5,1,6,5",foreigner,i want to know what love is,chorus,52ahDwSaFclHToKBWeZzic,0.467,0.561,6,-6.787,1,0.0262,0.267,3.02e-06,0.132,0.493,81.303,303680,4
 "5,1,6,5",alkaline trio,help me,intro,1Fy9hQQLek2UpOYUEPjiYn,0.513,0.943,11,-3.982,1,0.0619,7.13e-05,3.75e-06,0.164,0.528,116.999,224600,4
